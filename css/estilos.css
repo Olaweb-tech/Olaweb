@@ -30,7 +30,7 @@ header {
     height: 600px;
     background: rgb(0, 0, 0);
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(42, 36%, 40%, 0.726), hsla(64, 86%, 67%, 0.397)), url(../img/portada.jpg);
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 0%, 0.534), hsla(0, 0%, 0%, 0.397)), url(../img/portada.jpg);
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, hsla(0, 0%, 0%, 0.527), hsla(0, 0%, 0%, 0.507)), url(../img/portada.jpg);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
